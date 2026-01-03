@@ -10,4 +10,4 @@ Hi, I'm maj, a hobbyist programmer and language learner.
 My profile picture is [重音テト](https://anilist.co/character/24552) drawn by [おかゆ](https://pixiv.net/artworks/134942010).
 
 ## AI-Disclaimer
-I don't use any kind of "generative AI" to write, or "help me" write code. My projects may be inefficent, vulnerable or just plain bad, but they are written by me.
+I don't use any kind of "generative AI" to write, or "help me" write code. My projects may be inefficient, vulnerable or just plain bad, but they are written by me.
