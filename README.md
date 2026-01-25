@@ -7,7 +7,7 @@ Hi, I'm maj, a hobbyist programmer and language learner.
 - You can find me on both [Github](https://github.com/legendofmaj/) and [Codeberg](https://codeberg.org/legendofmaj/).
 
 ## Sources
-My profile picture is [重音テト](https://anilist.co/character/24552) drawn by [おかゆ](https://pixiv.net/artworks/134942010).
+My profile picture is [フリーレン](https://anilist.co/character/176754) from [葬送のフリーレン](https://anilist.co/anime/154587/).
 
 ## AI-Disclaimer
 I don't use any kind of "generative AI" to write, or "help me" write code. My projects may be inefficient, vulnerable or just plain bad, but they are written by me.
