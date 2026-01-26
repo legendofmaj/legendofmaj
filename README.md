@@ -1,6 +1,6 @@
 ## About me
 Hi, I'm maj, a hobbyist programmer and language learner.
-- I'm studying 🇫🇷**French** (B1) and 🇯🇵**Japanese**.
+- I'm studying 🇫🇷 **French** (B1) and 🇯🇵 **Japanese**.
 - I love **vocaloid** and **kuukikei anime**.
 - Currently I'm working on a CLI called **[anijouhou](https://github.com/legendofmaj/anijouhou/)**.
 - I'm learning **Bash scripting**, **Rust** and **Linux**.
