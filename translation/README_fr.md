@@ -1,8 +1,7 @@
 >[!WARNING]
 >Je suis encore en train d'apprendre le français, donc vous pouvez probablement trouver certains erreurs ici.
-## À propos de moi
-<div style="text-align: right"> <a href="../README.md">🇬🇧 Original README</a> <br> <a href="README_ja.md">🇯🇵 日本語のREADME</a></div>
 
+## À propos de moi
 Bonjour, je suis maj, programmateur amateur et apprenant de langues.
 - Je suis en train d'étudier le 🇫🇷 **Français** (B1) et le 🇯🇵 **Japonais**.
 - J'adore des chansons **vocaloid** et des **animes kuukikei**.
@@ -18,3 +17,7 @@ Mon photo de profil c'est [フリーレン](https://anilist.co/character/176754)
 ## En concernant l'IA
 Je n'utilise pas n'importe quel sort de IA générative pour écrire de code.
 Mes projets sont peut-être inefficace, vulnérable ou tout simplement mauvais, mais ils sont les miens.
+
+## des autres versions de README
+[🇬🇧 Original README](../README.md) <br>
+[🇯🇵 日本語のREADME](README_ja.md)

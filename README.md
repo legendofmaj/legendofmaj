@@ -1,6 +1,4 @@
 ## About me
-<div style="text-align: right"> <a href="translation/README_fr.md">🇫🇷 README en Français</a> <br> <a href="translation/README_ja.md">🇯🇵 日本語のREADME</a></div>
-
 Hi, I'm maj, a hobbyist programmer and language learner.
 - I'm studying 🇫🇷 **French** (B1) and 🇯🇵 **Japanese**.
 - I love **vocaloid** and **kuukikei anime**.
@@ -15,3 +13,7 @@ My profile picture is [フリーレン](https://anilist.co/character/176754) fro
 
 ## AI-Disclaimer
 I don't use any kind of "generative AI" to write, or "help me" write code. My projects may be inefficient, vulnerable or just plain bad, but they are written by me.
+
+## Translations
+[🇫🇷 README en Français](translation/README_fr.md) <br>
+[🇯🇵 日本語のREADME](translation/README_ja.md)

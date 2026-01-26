@@ -2,8 +2,6 @@
 >僕はまだ日本語を勉強します。だからこのREADMEには多分問題がたくさんいます。
 
 ## 僕について
-<div style="text-align: right"> <a href="../README.md">🇬🇧 Original README</a> <br> <a href="README_fr.md">🇫🇷 README en Français</a></div>
-
 こにちは、majです。 プログラミングと言葉の勉強は趣味です。
 - 今🇫🇷**フランス語**(B1)と🇯🇵**日本語**を勉強します。 
 - **ボカロ**と**空気系アニメ**が好きです。
@@ -18,3 +16,7 @@
 
 ## AIについて
 僕はAIを全然使いません。プロジェクトはもしかしたら酷いでも僕はそのプロジェクトを作っていました。
+
+## 他のREADME
+[🇬🇧 Original README](../README.md) <br>
+[🇫🇷 README en Français](README_fr.md)
