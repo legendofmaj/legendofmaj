@@ -1,7 +1,7 @@
 # About me
 Hi, I'm maj. I like language learning and programming.
 
-Currently I speak English, German and French and I'm studying Japanese.
+Currently I speak English and German and am studying French (B1) and Japanese (≈N5-N4).
 
 I'm mainly interested in C, C++, Rust and Bash.
 
